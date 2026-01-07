@@ -8,10 +8,10 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
-   sodipodi:docname="logo-texto.svg"
-   inkscape:export-filename="img/logo-texto.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="logo-texto-base.svg"
+   inkscape:export-filename="img/logo-texto-banner.png"
+   inkscape:export-xdpi="64.199997"
+   inkscape:export-ydpi="64.199997"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="0.39553872"
-     inkscape:cx="280.62992"
-     inkscape:cy="290.74271"
+     inkscape:zoom="0.55937622"
+     inkscape:cx="303.0161"
+     inkscape:cy="253.85419"
      inkscape:window-width="1280"
      inkscape:window-height="648"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1" />
+     inkscape:current-layer="text8" />
   <defs
      id="defs1" />
   <g
@@ -43,7 +43,7 @@
      id="layer1">
     <g
        id="g1"
-       transform="translate(0,0.26458332)">
+       transform="translate(1.6536497,0.26458332)">
       <g
          id="text15"
          style="font-size:42.3333px;line-height:0.85;font-family:'Blackout Sunrise';-inkscape-font-specification:'Blackout Sunrise';text-align:center;letter-spacing:0.529167px;text-anchor:middle;fill:#34cca6;stroke-width:1.32292;stroke-linecap:square"
@@ -51,15 +51,15 @@
         <path
            style="font-family:'Blackout Midnight';-inkscape-font-specification:'Blackout Midnight';text-align:start;text-anchor:start"
            d="m 39.116038,48.723016 h 8.424327 v 7.111995 H 32.004044 V 24.339034 h 7.111994 z m 27.453136,-1.185333 h -6.138329 l -2.793998,8.297328 h -8.08566 l 9.228659,-31.495977 h 9.48266 l 9.22866,31.495977 h -8.085661 z"
-           id="path4" />
+           id="path19" />
         <path
            style="font-family:'Blackout Midnight';-inkscape-font-specification:'Blackout Midnight';text-align:start;text-anchor:start"
            d="m 41.613703,60.981166 q 2.031999,0 3.682997,0.719666 1.650999,0.719666 2.793998,2.074332 1.185333,1.312332 1.820332,3.217331 0.635,1.862665 0.635,4.190996 0,2.285999 -0.635,4.148664 -0.634999,1.862665 -1.820332,3.217331 -1.142999,1.354666 -2.793998,2.116665 -1.650998,0.719666 -3.682997,0.719666 H 41.57137 39.243038 V 92.477142 H 32.004044 V 60.981166 h 9.567326 z m 19.071143,0 V 92.477142 H 53.572851 V 60.981166 Z m 22.75413,7.111994 H 71.246985 v 5.079997 h 8.97466 v 7.111994 h -8.97466 v 5.079996 h 12.191991 v 7.111995 H 64.134991 V 60.981166 H 83.438976 Z M 106.87043,60.981166 V 68.09316 L 95.863771,85.365147 h 11.006659 v 7.111995 H 86.762112 V 85.365147 L 98.14977,68.09316 H 86.762112 v -7.111994 z m 19.53684,23.198649 h -6.13833 l -2.79399,8.297327 h -8.08566 l 9.22865,-31.495976 h 9.48266 l 9.22866,31.495976 h -8.08566 z"
-           id="path5" />
+           id="path20" />
         <path
            style="font-family:'Blackout Midnight';-inkscape-font-specification:'Blackout Midnight';text-align:start;text-anchor:start"
            d="m 37.803706,129.11927 h -5.799662 v -5.84199 h 5.799662 z m 20.214156,-8.29732 h -6.138328 l -2.793998,8.29732 h -8.085661 l 9.22866,-31.495973 h 9.48266 l 9.228659,31.495973 h -8.08566 z m 24.659162,8.29732 -4.233331,-10.24466 h -0.08467 v 10.24466 H 71.247032 V 97.623297 h 9.567326 0.04233 q 2.709331,0 4.48733,0.846666 1.820332,0.804333 2.878664,2.201337 1.100666,1.35466 1.566332,3.21733 0.465667,1.82033 0.465667,3.85233 0,2.11666 -0.719667,3.76766 -0.677332,1.651 -1.650998,2.794 -0.931333,1.10066 -1.904999,1.69333 -0.973666,0.55033 -1.523999,0.55033 l 6.392329,12.57299 z M 114.91381,97.623297 v 7.111993 h -7.15433 v 24.38398 h -7.11199 v -24.38398 h -7.154333 v -7.111993 z m 9.20751,31.495973 h -5.54566 v -6.26532 h 5.54566 z m 0.84667,-31.495973 -0.84667,21.886313 h -5.54566 L 117.729,97.623297 Z m 9.63086,31.495973 h -5.54566 v -6.26532 h 5.54566 z m 0.84666,-31.495973 -0.84666,21.886313 h -5.54566 l -0.84667,-21.886313 z"
-           id="path6" />
+           id="path21" />
       </g>
       <g
          id="text8"
@@ -68,15 +68,15 @@
         <path
            style="font-family:'Blackout Midnight';-inkscape-font-specification:'Blackout Midnight';text-align:start;text-anchor:start"
            d="m 36.470204,46.077184 h 8.424327 v 7.111994 H 29.35821 V 21.693202 h 7.111994 z M 63.92334,44.891851 h -6.138329 l -2.793998,8.297327 h -8.08566 l 9.228659,-31.495976 h 9.48266 l 9.22866,31.495976 h -8.085661 z"
-           id="path1" />
+           id="path22" />
         <path
            style="font-family:'Blackout Midnight';-inkscape-font-specification:'Blackout Midnight';text-align:start;text-anchor:start"
            d="m 38.967869,58.335334 q 2.031999,0 3.682997,0.719666 1.650999,0.719666 2.793998,2.074332 1.185333,1.312332 1.820332,3.217331 0.635,1.862665 0.635,4.190996 0,2.285999 -0.635,4.148664 -0.634999,1.862665 -1.820332,3.217331 -1.142999,1.354665 -2.793998,2.116665 -1.650998,0.719666 -3.682997,0.719666 h -0.04233 -2.328332 V 89.83131 H 29.35821 V 58.335334 h 9.567326 z m 19.071143,0 V 89.83131 H 50.927017 V 58.335334 Z m 22.75413,7.111994 H 68.601151 v 5.079997 h 8.97466 v 7.111994 h -8.97466 v 5.079996 H 80.793142 V 89.83131 H 61.489157 V 58.335334 H 80.793142 Z M 104.2246,58.335334 v 7.111994 L 93.217938,82.719315 H 104.2246 V 89.83131 H 84.116278 V 82.719315 L 95.503936,65.447328 H 84.116278 v -7.111994 z m 19.53684,23.198649 h -6.13833 l -2.794,8.297327 h -8.08566 l 9.22866,-31.495976 h 9.48266 l 9.22866,31.495976 h -8.08566 z"
-           id="path2" />
+           id="path23" />
         <path
            style="font-family:'Blackout Midnight';-inkscape-font-specification:'Blackout Midnight';text-align:start;text-anchor:start"
            d="M 35.157872,126.47344 H 29.35821 v -5.84199 h 5.799662 z m 20.214156,-8.29733 H 49.2337 l -2.793998,8.29733 h -8.085661 l 9.22866,-31.495975 h 9.48266 l 9.228659,31.495975 h -8.08566 z m 24.659162,8.29733 -4.233331,-10.24466 h -0.08467 v 10.24466 H 68.601198 V 94.977465 h 9.567326 0.04233 q 2.709331,0 4.48733,0.846666 1.820332,0.804333 2.878664,2.201332 1.100666,1.354666 1.566332,3.217327 0.465667,1.82034 0.465667,3.85233 0,2.11667 -0.719667,3.76767 -0.677332,1.651 -1.650998,2.794 -0.931333,1.10066 -1.904999,1.69333 -0.973666,0.55033 -1.523999,0.55033 l 6.392329,12.57299 z m 32.23678,-31.495975 v 7.111995 h -7.15432 v 24.38398 h -7.111999 v -24.38398 h -7.154328 v -7.111995 z m 9.20752,31.495975 h -5.54566 v -6.26533 h 5.54566 z m 0.84667,-31.495975 -0.84667,21.886315 h -5.54566 l -0.84667,-21.886315 z m 9.63085,31.495975 h -5.54566 v -6.26533 h 5.54566 z m 0.84667,-31.495975 -0.84667,21.886315 h -5.54566 l -0.84666,-21.886315 z"
-           id="path3" />
+           id="path24" />
       </g>
     </g>
   </g>
